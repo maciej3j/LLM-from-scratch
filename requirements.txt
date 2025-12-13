@@ -3,3 +3,6 @@ tqdm
 sentencepiece
 jupyter
 wandb
+torch
+torchvision
+torchaudio
